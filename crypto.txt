@@ -1,0 +1,61 @@
+! Title: Crypto Filters by MetaGamers Guild
+! Description: A list of known bad sites involved in crypto scams.
+!
+! Homepage: https://github.com/davidcraig/ublock-filters/blob/main/crypto.txt
+!
+! GitHub pull requests: https://github.com/davidcraig/ublock-filters/pulls
+!
+! Contents
+! 1. Generic Mint Scams
+! 2. Project Specific Scams
+! 3. Rug Pulled Projects
+! 4. Other (or not yet classified).
+
+! 1. Generic Scams: eg mint/collab
+||captcha.digital
+||collbland.cc
+||datacollabportal.com
+||live-mints.com
+||mint-nfts.me
+||mint-salesweb.com
+||mintnftsale.live
+||mints-nft.live
+||s2-collab.land
+
+! 2. Project Specific Scams
+! Illuvium - real site: https://www.illuvium.io/
+||illeuvium.io
+
+! WaifuHarem Club Scams - real site: https://www.waifuharem.club/
+||waifuharem-mint.club
+||waifuharemclub.com
+
+! VeeFriends - real site: https://veefriends.com/
+||veefriend.art
+
+! Undead Blocks - real site: https://www.undeadblocks.com/
+||un-deadblocks.com
+||undeadblocks.live
+
+! Mob.land - real site: https://mob.land/
+||mint-mob.land
+
+! Genopets - real site: https://www.genopets.me/
+||genopets-mint.com
+
+! Alpha Kongs Club - real site: https://www.alphakongsclub.com/
+||alphakongsclub.netlify.app
+||alphakongsclubnft.live
+||alphakongzserver.net
+||thealphakongs.com
+
+! Moonbirds - real site: https://moonbirds.xyz/
+||allowlists-moonbirds.xyz
+
+! 3. Rug Pulled Projects (All traces disappeared after mint)
+||kingdomspritez.com
+
+! 4. Other
+||apeszukiclub.com
+||give-sandbox.com
+||zukiapeclub.com
