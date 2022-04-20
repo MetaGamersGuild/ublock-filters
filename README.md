@@ -6,4 +6,4 @@ uBlock does a pretty good job by default of blocking sites, we wanted to add our
 
 click uBlock icon, go to dashboard, under custom click import, paste in the URL(s):
 
-    https://raw.githubusercontent.com/metagamersguild/ublock-filters/main/crypto.txt
+    https://raw.githubusercontent.com/MetaGamersGuild/ublock-filters/main/crypto.txt
