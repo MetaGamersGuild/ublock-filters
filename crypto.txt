@@ -54,6 +54,9 @@
 ! Moonbirds - real site: https://moonbirds.xyz/
 ||allowlists-moonbirds.xyz
 
+! Imaginary Ones - real site: https://imaginaryones.com/
+||imaginary-ones.online
+
 ! 3. Rug Pulled Projects (All traces disappeared after mint)
 ||kingdomspritez.com
 
