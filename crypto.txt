@@ -16,13 +16,13 @@
 ||collbland.cc
 ||datacollabportal.com
 ||live-mints.com
+||mint-pre.live
 ||mint-nfts.me
 ||mint-salesweb.com
+||mintnft-cheapest.com
 ||mintnftsale.live
 ||mints-nft.live
 ||s2-collab.land
-||mintnft-cheapest.com
-||mint-pre.live
 
 ! 2. Project Specific Scams
 ! Illuvium - real site: https://www.illuvium.io/
@@ -48,9 +48,9 @@
 ! Alpha Kongs Club - real site: https://www.alphakongsclub.com/
 ||alphakongsclub.netlify.app
 ||alphakongsclubnft.live
+||alphakongsproject.com
 ||alphakongzserver.net
 ||thealphakongs.com
-||alphakongsproject.com
 
 ! Moonbirds - real site: https://moonbirds.xyz/
 ||allowlists-moonbirds.xyz
@@ -58,13 +58,13 @@
 ! Imaginary Ones - real site: https://imaginaryones.com/
 ||imaginary-ones.online
 
-! 3. Rug Pulled Projects (All traces disappeared after mint)
-||kingdomspritez.com
+! 3. Rug Pulled Projects (All traces disappeared after mint or x amount of time)
 ||bnbbrokers.app
+||kingdomspritez.com
 ||zion-finance.com
 
 ! 4. Other
 ||apeszukiclub.com
+||elontoday.org
 ||give-sandbox.com
 ||zukiapeclub.com
-||elontoday.org
