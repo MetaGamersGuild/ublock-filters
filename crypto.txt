@@ -12,6 +12,7 @@
 ! 4. Other (or not yet classified).
 
 ! 1. Generic Scams: eg mint/collab
+||bnbroyal.io
 ||captcha.digital
 ||collbland.cc
 ||datacollabportal.com
