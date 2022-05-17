@@ -34,12 +34,12 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ! Alpha Kongs Club - real site: https://www.alphakongsclub.com/
+||alphakongs.app
 ||alphakongsclub.netlify.app
 ||alphakongsclubnft.live
 ||alphakongsproject.com
 ||alphakongzserver.net
 ||thealphakongs.com
-||alphakongs.app
 
 ! Alpha Nodes - real site: https://alphanodes.finance/
 ||alphanodes.app
