@@ -39,6 +39,7 @@
 ||alphakongsproject.com
 ||alphakongzserver.net
 ||thealphakongs.com
+||alphakongs.app
 
 ! Alpha Nodes - real site: https://alphanodes.finance/
 ||alphanodes.app
