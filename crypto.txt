@@ -1,9 +1,9 @@
 ! Title: Crypto Filters by MetaGamers Guild
 ! Description: A list of known bad sites involved in crypto scams.
 !
-! Homepage: https://github.com/davidcraig/ublock-filters/blob/main/crypto.txt
+! Homepage: https://github.com/MetaGamersGuild/ublock-filters/blob/main/crypto.txt
 !
-! GitHub pull requests: https://github.com/davidcraig/ublock-filters/pulls
+! GitHub pull requests: https://github.com/MetaGamersGuild/ublock-filters/pulls
 !
 ! Contents
 ! 1. Generic Mint Scams
